@@ -1,6 +1,6 @@
 # Ruboty::CodeiqFeed
 
-An Ruboty Handler + Actions to Ruboty | ruboty-codeiq_feed で CodeIQ の新着問題情報を取得する.
+A Ruboty Handler + Actions to Ruboty | ruboty-codeiq_feed で CodeIQ の新着問題情報を取得する.
 
 [Ruboty](https://github.com/r7kamura/ruboty) is Chat bot framework. Ruby + Bot = Ruboty
 
